@@ -24,6 +24,22 @@ body{
 .menu li{
     padding: 2vw;
 }
+a{
+    color:rgb(0, 130, 130);
+    font-weight: bold;
+}
 a:link{
-    color: aqua;
+    color: rgb(62, 125, 0);
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: gray;
+}
+a:focus{
+    color: blue;
+}
+a:active{
+    color: red;
 }
